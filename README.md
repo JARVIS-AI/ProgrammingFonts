@@ -1,4 +1,4 @@
-# programming-fonts-collection
+# ProgrammingFonts
 
 <img src="logo-programming-fonts.png" width="" height="200"/>
 
@@ -7,13 +7,11 @@
 
 #### Official website:
 
-[http://www.programmingfonts.com](http://www.programmingfonts.com) 
+[http://www.programmingfonts.com](http://www.programmingfonts.com)
 
 #### Github
 
-[https://github.com/ProgrammingFonts/programming-fonts-collection](https://github.com/ProgrammingFonts/programming-fonts-collection)
-
-**Note:Since lots of people pay attention to this repository,I will build a website for this project and make it easy for us to choose & compare these programming fonts,just wait us!**
+[https://github.com/ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts)
 
 #### What's this?
 
@@ -225,14 +223,14 @@ Sample:
 
 Input is a flexible system of fonts designed specifically for code by David Jonathan Ross. It offers both monospaced and proportional fonts, all with a large range of widths, weights, and styles for richer code formatting.
 
-Sample: 
+Sample:
 
 ![](Input/programming-font-input.png "Font Input Sample")
 
 
 16. [Vintage Programming Fonts Pack:](https://int10h.org/oldschool-pc-fonts/)
 
-This pack includes all the legendary fonts from the days of UNIX, TCP, and Mama Bell Labs. 
+This pack includes all the legendary fonts from the days of UNIX, TCP, and Mama Bell Labs.
 
 Font Style      | Size in Pixels  | Size in Pts | DOS Charset | Extended Charset
 --------------- | :-------------: | :---------: | :---------: | :--------------:
@@ -332,4 +330,3 @@ The fonts here maybe not the latest,and lack of some fonts,but I will update by 
 #### Contribution:
 
 If you what to share the programming fonts that you know or update this project,you can fork this repository to contribute or tell me in the issues.
-
